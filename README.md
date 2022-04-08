@@ -1,22 +1,22 @@
 # Sagemath GSoC Proposal
 
-Sub-Org Name: <br>
+**Sub-Org Name:** <br>
 SageMath <br>
 
-**Student Info** <br>
+**Student Info:** <br>
 Name: Georgia Channing <br>
 Github:  <br>
 CV:  <br>
 Email: gchannin@vols.utk.edu <br>
 Timezone: Eastern Daylight Time (UTC-4) <br>
 
-**University Information** <br>
+**University Information:** <br>
 University Name: University of Tennessee, Knoxville <br>
 Research Interests: foundations of computer science, algorithms, bayesian optimization <br>
 Degree: BSc 2022 -> MSc <br>
 
-**Proposal Abstract** <br>
-**Proposal Description** <br>
-**Schedule & Deliverables** <br>
+**Proposal Abstract:** <br>
+**Proposal Description:** <br>
+**Schedule & Deliverables:** <br>
 
 
