@@ -29,11 +29,11 @@ The current method used for finding edge disjoint spanning trees in directed gra
 [Anand Bhalgat, Ramesh Hariharan, Telikepalli Kavitha and Debmalya Panigrahi: Fast edge splitting and Edmonds' arborescence construction for unweighted graphs. ACM-SIAM symposium on Discrete algorithms (SODA), pp 455-464, 2008](https://users.cs.duke.edu/~debmalya/papers/soda08-splitting.pdf) <br>
 
 
-### Proposal Description
-<br>
-## Schedule & Deliverables
+## Proposal Description
 
-## Project Preparation and Communication
+### Schedule & Deliverables
+
+### Project Preparation and Communication
 
 
 
