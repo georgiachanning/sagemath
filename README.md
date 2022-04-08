@@ -32,8 +32,8 @@ I code on OSX, but I am also willing to use an AWS EC2 Linux instance if helpful
 ***Are you or have you been engaged in other open-source projects?*** <br>
 I am rather new to the open-source world, but I have worked on enhanced distance calculations and implementations for geopandas. I have also translated a C4ADS visualization library from R to Python. <br> <br>
 ***Do you code on your own pet projects?***<br>
-Most of the coding I do outside of my job and school is coding for projects at the lab I work at. Frankly, I have been extremely busy the last two years so have had limited opportunity to work on coding projects outside of the ones I do for work, school, and research. <br>
-***Are you a Sage user, how long do you know Sage?*** <br> <br>
+Most of the coding I do outside of my job and school is coding for projects at the lab I work at. Frankly, I have been extremely busy the last two years so have had limited opportunity to work on coding projects outside of the ones I do for work, school, and research. <br> <br>
+***Are you a Sage user, how long do you know Sage?*** <br>
 I am a Sage user, but I have not used it extensively. I used SageMath while taking my graduate Advanced Graph Algorithms and Optimization course in 2019. My work since then has moved away from graph theory, but I would be very excited to refresh that knowledge and explore the field a bit more. <br> <br>
 
 
