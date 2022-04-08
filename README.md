@@ -11,6 +11,6 @@ Email: gchannin@vols.utk.edu
 Timezone: Eastern Daylight Time (UTC-4)
 
 # University Information
-University Name: University of Tennessee, Knoxville
+University Name: University of Tennessee, Knoxville \n
 Research Interests: foundations of computer science, algorithms, bayesian optimization
 Degree: BSc 2022 -> MSc
