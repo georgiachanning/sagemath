@@ -20,7 +20,7 @@ Tickets reviewed: <br>
 
 ## Proposal Information
 ### Proposal Title
-Edge connectivity and edge disjoint spanning trees in digraphs <br> <br>
+Edge connectivity and edge disjoint spanning trees in digraphs 
 ### Proposal Abstract
 The current method used for finding edge disjoint spanning trees in directed graphs (digraphs) relies on mixed integer linear programming and it may fail on some instances. The problem has been fixed for undirected graphs, implementing a combinatorial algorithm. The goal of this project is to implement combinatorial algorithms for finding edge disjoint spanning trees in digraphs. We will particularly consider the following algorithms: <br>
 
