@@ -18,6 +18,7 @@ SageMath <br>
 **Code Contribution:** <br>
 Tickets reviewed: <br>
 
+## Proposal Information
 **Proposal Title:** <br>
 Edge connectivity and edge disjoint spanning trees in digraphs <br> <br>
 **Proposal Abstract:** <br>
@@ -28,8 +29,10 @@ The current method used for finding edge disjoint spanning trees in directed gra
 [Anand Bhalgat, Ramesh Hariharan, Telikepalli Kavitha and Debmalya Panigrahi: Fast edge splitting and Edmonds' arborescence construction for unweighted graphs. ACM-SIAM symposium on Discrete algorithms (SODA), pp 455-464, 2008](https://users.cs.duke.edu/~debmalya/papers/soda08-splitting.pdf) <br>
 
 
-
 **Proposal Description:** <br>
+<br>
 **Schedule & Deliverables:** <br>
+
+
 
 
