@@ -16,6 +16,12 @@ SageMath <br>
 
 ## Background
 
+*What are your technical skills, education, experience, etc. Especially make sure to explain with what level of mathematics you are comfortable with and on what level you would like to program.* <br>
+*Who are you? What makes you the best person to work on this particular project? Your personal motivation?* <br>
+*What platform and operating-system are you using on your computer? (Sage development is done best on Linux and OSX)* <br>
+*Are you or have you been engaged in other open-source projects?* <br>
+*Do you code on your own pet projects?* <br>
+*Are you a Sage user, how long do you know Sage?* <br>
 
 **Code Contribution:** <br>
 Tickets reviewed: <br>
