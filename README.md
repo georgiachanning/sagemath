@@ -3,7 +3,7 @@
 **Sub-Org Name:** <br>
 SageMath <br>
 
-**Student Info:** <br>
+## Student Information
 *Name*: Georgia Channing <br>
 *Github*:  [georgiachanning](https://github.com/georgiachanning) <br>
 *CV*: [Recent resume](https://github.com/georgiachanning/Resume/blob/master/gwcresume%20(1).pdf) <br>
@@ -19,7 +19,7 @@ SageMath <br>
 Tickets reviewed: <br>
 
 ## Proposal Information
-**Proposal Title:** <br>
+### Proposal Title
 Edge connectivity and edge disjoint spanning trees in digraphs <br> <br>
 **Proposal Abstract:** <br>
 The current method used for finding edge disjoint spanning trees in directed graphs (digraphs) relies on mixed integer linear programming and it may fail on some instances. The problem has been fixed for undirected graphs, implementing a combinatorial algorithm. The goal of this project is to implement combinatorial algorithms for finding edge disjoint spanning trees in digraphs. We will particularly consider the following algorithms: <br>
