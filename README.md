@@ -15,6 +15,7 @@ SageMath <br>
 *Research Interests*: foundations of computer science, algorithms, bayesian optimization <br>
 *Degree*: BSc 2022 -> PhD (to be completed circa 2027) <br>
 
+**Proposal Idea:** Edge connectivity and edge disjoint spanning trees in digraphs <br>
 **Proposal Abstract:** <br>
 **Proposal Description:** <br>
 **Schedule & Deliverables:** <br>
