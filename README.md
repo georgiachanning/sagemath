@@ -5,7 +5,7 @@ SageMath <br>
 
 **Student Info:** <br>
 *Name*: Georgia Channing <br>
-*Github*:  <br>
+*Github*:  [https://github.com/georgiachanning](georgiachanning) <br>
 *CV*:  <br>
 *Email*: gchannin@vols.utk.edu <br>
 *Timezone*: Eastern Daylight Time (UTC-4) <br>
