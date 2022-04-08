@@ -39,7 +39,11 @@ The current method used for finding edge disjoint spanning trees in directed gra
 During the community bonding period, I will study the SageMath code base, particularly the BLANK, and review the SageMath developer guidelines. To better understand and interact with the SageMath core development team, I will DO SOMETHING. Additionally, I will communicate with my mentor to schedule frequent, recurring, and mutually convenient meetings throughout the summer. If there is a large time difference between my mentors and myself, I will adjust my schedule to ensure that our workdays overlap for at least a portion of each day. 
 
 #### Phase 1: Literature Review and Preliminary Implementation (June 12-July 25)
-#### Phase 2: 
+##### Week 1-6
+#### Phase 2: (July 25-September 4)
+##### Week 7-12
+#### Phase 3: Final Code, Documentation, and Mentor Review Submissions (September 5-September 12)
+##### Week 12-13
 
 #### In case of early finish: 
 
