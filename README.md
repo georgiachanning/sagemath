@@ -26,14 +26,20 @@ The current method used for finding edge disjoint spanning trees in directed gra
 
 [Harold N. Gabow: A Matroid Approach to Finding Edge Connectivity and Packing Arborescences. J. Comput. Syst. Sci. 50(2): 259-273 (1995)] (https://doi.org/10.1006/jcss.1995.1022) <br>
 
-[Anand Bhalgat, Ramesh Hariharan, Telikepalli Kavitha and Debmalya Panigrahi: Fast edge splitting and Edmonds' arborescence construction for unweighted graphs. ACM-SIAM symposium on Discrete algorithms (SODA), pp 455-464, 2008](https://users.cs.duke.edu/~debmalya/papers/soda08-splitting.pdf) <br>
-
+[Anand Bhalgat, Ramesh Hariharan, Telikepalli Kavitha and Debmalya Panigrahi: Fast edge splitting and Edmonds' arborescence construction for unweighted graphs. ACM-SIAM symposium on Discrete algorithms (SODA), pp 455-464, 2008](https://users.cs.duke.edu/~debmalya/papers/soda08-splitting.pdf)
 
 ### Proposal Description
 
 ## Schedule & Deliverables
 
 ### Project Preparation and Communication
+
+#### Community Bonding (April 27-May 15)
+During the community bonding period, I will study the SageMath code base, particularly the BLANK, and review the SageMath developer guidelines. To better understand and interact with the SageMath core development team, I will DO SOMETHING. Additionally, I will communicate with my mentor to schedule frequent, recurring, and mutually convenient meetings throughout the summer. If there is a large time difference between my mentors and myself, I will adjust my schedule to ensure that our workdays overlap for at least a portion of each day. 
+
+#### Phase 1: Literature Review and ()
+
+
 
 
 
