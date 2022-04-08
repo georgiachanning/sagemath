@@ -17,11 +17,25 @@ SageMath <br>
 ## Background
 
 *What are your technical skills, education, experience, etc. Especially make sure to explain with what level of mathematics you are comfortable with and on what level you would like to program.* <br>
+I have a Bachelor's degree from the University of Tennessee, Knoxville, though I previously studied at the Unviersity of Southern California and ETH Zürich. During the pandemic, I had to leave my position at ETH, and I returned to my state school. At the same time, I was hired full-time as a data scientist at the Center for Advanced Defense Studies (C4ADS), a data-driven thinktank in Washington, D.C.. During my studies, I have engaged in a fair amount of graduate coursework, including graduate-level Applied Combinatorics, Advanced Graph Algorithms and Optimization, Foundations of Computer Theory, Data Science for Big Data, and Applied Cryptography. I have also completed courses in Probability, Statistics, Discrete Math, and Linear Algebra. <br>
+
+At this point, I am most comfortable programming in Python, though my Bachelor's degree was done entirely in C and C++. I am happy to code in either of these languages, and I would be excited to try to get the best of both worlds (abstraction and performance) by using a mix in my implementation. 
+
+I am quite familiar with git and GitHub as I also work in Dr. Michela Taufer's lab on the implementation of neural architecture searches and Bayesian optimizations. I have also used Jira and other Scrum products extensively in my work at the Center for Advanced Defense Studies.
+<br>
 *Who are you? What makes you the best person to work on this particular project? Your personal motivation?* <br>
+I hope to pursue a PhD in Algorithms, Combinatorics, and Optimization (ACO), and I believe that this project will be an opportunity for me to work on issues I am interested in while both being challenged and contributing to an open codebase. 
+
+At the end of this school year (May), I will be leaving my current job as a Data Scientist before beginning a Staff Researcher position at Global COmputing Lab in the late summer. I want to be engaged on a technical project in that intermediate period, and I hope to bring new experience and knowledge back to my research in the fall. <br>
 *What platform and operating-system are you using on your computer? (Sage development is done best on Linux and OSX)* <br>
+I code on OSX, but I am also willing to use an AWS EC2 Linux instance if helpful.
 *Are you or have you been engaged in other open-source projects?* <br>
+I am rather new to the open-source world, but I have worked on enhanced distance calculations and implementations for geopandas. I have also translated a C4ADS visualization library from R to Python. <br>
 *Do you code on your own pet projects?* <br>
+Most of the coding I do outside of my job and school is coding for projects at the lab I work at. Frankly, I have been extremely busy the last two years so have had limited opportunity to work on coding projects outside of the ones I do for work, school, and research. <br>
 *Are you a Sage user, how long do you know Sage?* <br>
+I am a Sage user, but I have not used it extensively. I used SageMath while taking my graduate Advanced Graph Algorithms and Optimization course in 2019. My work since then has moved away from graph theory, but I would be very excited to refresh that knowledge and explore the field a bit more. <br>
+
 
 **Code Contribution:** <br>
 Tickets reviewed: <br>
