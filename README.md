@@ -40,12 +40,14 @@ During the community bonding period, I will study the SageMath code base, partic
 
 #### Phase 1: Literature Review and Preliminary Implementation (June 12-July 25)
 ##### Week 1-6
-#### Phase 2: (July 25-September 4)
+#### Phase 2: Efficiency Improvements and Testing (July 25-September 4)
 ##### Week 7-12
 #### Phase 3: Final Code, Documentation, and Mentor Review Submissions (September 5-September 12)
 ##### Week 12-13
 
-#### In case of early finish: 
+#### Project Extension
+In the case of early finish, I will attempt to implement the second combinatorial algorithm suggested for "edge connectivity and edge disjoint spanning trees in digraphs". SageMath will then have two implementations that users can choose from depending on their needs and efficiency requirements.
+
 
 
 
