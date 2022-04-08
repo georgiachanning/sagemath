@@ -17,6 +17,14 @@ SageMath <br>
 
 **Proposal Idea:** Edge connectivity and edge disjoint spanning trees in digraphs <br>
 **Proposal Abstract:** <br>
+The current method used for finding edge disjoint spanning trees in directed graphs (digraphs) relies on mixed integer linear programming and it may fail on some instances. The problem has been fixed for undirected graphs, implementing a combinatorial algorithm. The goal of this project is to implement combinatorial algorithms for finding edge disjoint spanning trees in digraphs. We will particularly consider the following algorithms: <br>
+
+[Harold N. Gabow: A Matroid Approach to Finding Edge Connectivity and Packing Arborescences. J. Comput. Syst. Sci. 50(2): 259-273 (1995)] (https://doi.org/10.1006/jcss.1995.1022) <br>
+
+[Anand Bhalgat, Ramesh Hariharan, Telikepalli Kavitha and Debmalya Panigrahi: Fast edge splitting and Edmonds' arborescence construction for unweighted graphs. ACM-SIAM symposium on Discrete algorithms (SODA), pp 455-464, 2008](https://users.cs.duke.edu/~debmalya/papers/soda08-splitting.pdf) <br>
+
+
+
 **Proposal Description:** <br>
 **Schedule & Deliverables:** <br>
 
