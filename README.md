@@ -11,7 +11,7 @@ SageMath <br>
 *Timezone*: Eastern Daylight Time (UTC-4) <br>
 
 *University Name*: University of Tennessee, Knoxville <br>
-*Research Interests*: foundations of computer science, algorithms, bayesian optimization <br>
+*Research Interests*: foundations of computer science, graph algorithms, bayesian optimization <br>
 *Degree*: BSc 2022 -> PhD (to be completed circa 2027) <br>
 
 ## Background
