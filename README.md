@@ -17,7 +17,7 @@ SageMath <br>
 ## Background
 
 ***What are your technical skills, education, experience, etc. Especially make sure to explain with what level of mathematics you are comfortable with and on what level you would like to program.*** <br>
-I have a Bachelor's degree from the University of Tennessee, Knoxville, though I previously studied at the Unviersity of Southern California and ETH Zürich. During the pandemic, I had to leave my position at ETH, and I returned to my state school. At the same time, I was hired full-time as a data scientist at the Center for Advanced Defense Studies (C4ADS), a data-driven thinktank in Washington, D.C.. During my studies, I have engaged in a fair amount of graduate coursework, including graduate-level Applied Combinatorics, Advanced Graph Algorithms and Optimization, Foundations of Computer Theory, Data Science for Big Data, and Applied Cryptography. I have also completed courses in Probability, Statistics, Discrete Math, and Linear Algebra. <br>
+I have a Bachelor's degree from the University of Tennessee, Knoxville, though I previously studied at the Unviersity of Southern California and ETH Zürich. During the pandemic, I had to leave my position at ETH, and I returned to my state school. At the same time, I was hired full-time as a data scientist at the Center for Advanced Defense Studies (C4ADS), a data-driven thinktank in Washington, D.C. During my studies, I have engaged in a fair amount of graduate coursework, including graduate-level Applied Combinatorics, Advanced Graph Algorithms and Optimization, Foundations of Computer Theory, Data Science for Big Data, and Applied Cryptography. I have also completed courses in Probability, Statistics, Discrete Math, and Linear Algebra. <br>
 
 At this point, I am most comfortable programming in Python, though my Bachelor's degree was done entirely in C and C++. I am happy to code in either of these languages, and I would be excited to try to get the best of both worlds (abstraction and performance) by using a mix in my implementation. 
 
@@ -74,7 +74,6 @@ These weeks will likely focus on small optimizations in the algorithm in order t
 #### Phase 3: Final Code, Documentation, and Mentor Review Submissions (September 5-September 12)
 ##### Week 12-13: Wrap-Up
 These two weeks will be about tying up loose ends, merging code, writing documentation, and getting final feeedback from my mentor.
-
 
 
 ### Risk Management
