@@ -60,7 +60,10 @@ The current method used for finding edge disjoint spanning trees in directed gra
 During the community bonding period, I will study the SageMath code base, particularly the BLANK, and review the SageMath developer guidelines. To better understand and interact with the SageMath core development team, I will actively monitor and participate in the sage-devel and sage-coding-theory groups, though sage-coding-theory seems to be largely inactive. Additionally, I will communicate with my mentor to schedule frequent, recurring, and mutually convenient meetings throughout the summer. If there is a large time difference between my mentors and myself, I will adjust my schedule to ensure that our workdays overlap for at least a portion of each day. 
 
 #### Phase 1: Literature Review and Preliminary Implementation (June 12-July 25)
-##### Week 1-6
+##### Week 1-2: In-Depth Review
+These weeks will focus on deeply understanding the problem and possibel solutions. In particular, I will focus on Fast Edge Splitting and Edmonds’ Arborescence Construction for Unweighted Graphs, as well as general review through relevant sections of [Anupam Gupta's Advanced Algorithms](https://www.cs.cmu.edu/~15850/notes/cmu850-f20.pdf). I will also review the code pushed to SageMath to solve this problem for directed graphs and see if there is any possibility of infrastructure overlap. 
+##### Week 2-5:
+##### Week 6: Initial Code Review and Testing
 #### Phase 2: Efficiency Improvements and Testing (July 25-September 4)
 ##### Week 7-12
 #### Phase 3: Final Code, Documentation, and Mentor Review Submissions (September 5-September 12)
