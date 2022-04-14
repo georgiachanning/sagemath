@@ -71,8 +71,15 @@ These weeks will focus on deeply understanding the problem and possibel solution
 
 
 ### Risk Management
-#### Project Extension
+#### Project Stand-Still
+If the project cannot be completed for technical reasons (e.g. severe implementation or efficiency issues), I will work with my mentor to identify another suitable contribution to SageMath.
+#### Project Interruption
+If there is a sudden extenuating circumstance (e.g. I get hit by a bus, my mentor get hit by a bus, etc), I will work with my mentor and SageMath to negotiate a new project timeline that is mutually agreeable.
+#### Early Finish
 In the case of early finish, I will attempt to implement the second combinatorial algorithm suggested for "edge connectivity and edge disjoint spanning trees in digraphs". SageMath will then have two implementations that users can choose from depending on their needs and efficiency requirements.
+
+### Other GSoC Applications
+I am not applying to any other GSoC Organizations.
 
 
 
