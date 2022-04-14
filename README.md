@@ -61,23 +61,29 @@ During the community bonding period, I will study the SageMath code base, partic
 
 #### Phase 1: Literature Review and Preliminary Implementation (June 12-July 25)
 ##### Week 1-2: In-Depth Review
-These weeks will focus on deeply understanding the problem and possibel solutions. In particular, I will focus on Fast Edge Splitting and Edmonds’ Arborescence Construction for Unweighted Graphs, as well as general review through relevant sections of [Anupam Gupta's Advanced Algorithms](https://www.cs.cmu.edu/~15850/notes/cmu850-f20.pdf). I will also review the code pushed to SageMath to solve this problem for directed graphs and see if there is any possibility of infrastructure overlap. 
-##### Week 2-5:
+These weeks will focus on deeply understanding the problem and possibel solutions. In particular, I will focus on *A Matroid Approach to Finding Edge Connectivity and Packing Arborescences*, as well as general review through relevant sections of [Anupam Gupta's Advanced Algorithms](https://www.cs.cmu.edu/~15850/notes/cmu850-f20.pdf). I will also review the code pushed to SageMath to solve this problem for undirected graphs and see if there is any possibility of infrastructure overlap. 
+##### Weeks 2-5: Coding
+In these weeks, I will implement the multiple subsections of the algorithm proposed in *A Matroid Approach to Finding Edge Connectivity and Packing Arborescences* that do not yet exist as a part of SageMath (as far as I can tell). In particular, I will implement the matroid intersection algorithm and the round robin algorithm.  
 ##### Week 6: Initial Code Review and Testing
+In Week 6, I will meet with my mentor to discuss the first implementation of this algorithm. We will identify testing needs as well as targets for efficiency improvements. This may include traslating Python code into C for faster runtimes.
 #### Phase 2: Efficiency Improvements and Testing (July 25-September 4)
-##### Week 7-12
+##### Weeks 7-9: C Optimization
+These weeks may focus on translating a Python-implementation of the algorithm described in *A Matroid Approach to Finding Edge Connectivity and Packing Arborescences* into C. 
+#### Weeks 9-11:
+These weeks will likely focus on small optimizations in the algorithm in order to make it more efficient. Possible optimizations will only be clear after the first implementation when an efficiency analysis can be run on that code.
 #### Phase 3: Final Code, Documentation, and Mentor Review Submissions (September 5-September 12)
-##### Week 12-13
+##### Week 12-13: Wrap-Up
+These two weeks will be about tying up loose ends, merging code, writing documentation, and getting final feeedback from my mentor.
+
 
 
 ### Risk Management
 #### Project Stand-Still
 If the project cannot be completed for technical reasons (e.g. severe implementation or efficiency issues), I will work with my mentor to identify another suitable contribution to SageMath.
 #### Project Interruption
-If there is a sudden extenuating circumstance (e.g. I get hit by a bus, my mentor get hit by a bus, etc), I will work with my mentor and SageMath to negotiate a new project timeline that is mutually agreeable.
+If there is a sudden extenuating circumstance (e.g. I get hit by a bus, my mentor gets hit by a bus, etc), I will work with my mentor and SageMath to negotiate a new project timeline that is mutually agreeable.
 #### Early Finish
-In the case of early finish, I will attempt to implement the second combinatorial algorithm suggested for "edge connectivity and edge disjoint spanning trees in digraphs". SageMath will then have two implementations that users can choose from depending on their needs and efficiency requirements.
-
+In the case of early finish, I will attempt to implement the method proposed in Fast Edge Splitting and Edmonds’ Arborescence Construction for Unweighted Graphs. SageMath will then have two implementations that users can choose from depending on their needs and efficiency requirements.
 ### Other GSoC Applications
 I am not applying to any other GSoC Organizations.
 
