@@ -81,7 +81,7 @@ If the project cannot be completed for technical reasons (e.g. severe implementa
 #### Project Interruption
 If there is a sudden extenuating circumstance (e.g. I get hit by a bus, my mentor gets hit by a bus, etc), I will work with my mentor and SageMath to negotiate a new project timeline that is mutually agreeable.
 #### Early Finish
-In the case of early finish, I will attempt to implement the method proposed in Fast Edge Splitting and Edmonds’ Arborescence Construction for Unweighted Graphs. SageMath will then have two implementations that users can choose from depending on their needs and efficiency requirements.
+In the case of early finish, I will attempt to implement the method proposed in Fast Edge Splitting and Edmonds’ Arborescence Construction for Unweighted Graphs. SageMath will then have two implementations that users can choose from depending on their needs and efficiency requirements. Alternatively, if preferred by my mentor, I will tackle other open tickets in the graph module.
 ### Other GSoC Applications
 I am not applying to any other GSoC Organizations.
 
