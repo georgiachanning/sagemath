@@ -26,19 +26,18 @@ I am quite familiar with git and GitHub as I also work in Dr. Michela Taufer's l
 ***Who are you? What makes you the best person to work on this particular project? Your personal motivation?*** <br>
 I hope to pursue a PhD in Algorithms, Combinatorics, and Optimization (ACO), and I believe that this project will be an opportunity for me to work on issues I am interested in while both being challenged and contributing to an open codebase. 
 
-At the end of this school year (May), I will be leaving my current job as a Data Scientist before beginning a Staff Researcher position at Global COmputing Lab in the late summer. I want to be engaged on a technical project in that intermediate period, and I hope to bring new experience and knowledge back to my research in the fall. <br> <br>
+At the end of this school year (May), I will be leaving my current job as a Data Scientist before beginning a Staff Researcher position at Global Computing Lab in the late summer. I want to be engaged on a technical project in that intermediate period, and I hope to bring new experience back to my research in the fall. <br> <br>
 ***What platform and operating-system are you using on your computer? (Sage development is done best on Linux and OSX)*** <br>
 I code on OSX, but I am also willing to use an AWS EC2 Linux instance if helpful. <br> <br>
 ***Are you or have you been engaged in other open-source projects?*** <br>
-I am rather new to the open-source world, but I have worked on enhanced distance calculations and implementations for geopandas. I have also translated a C4ADS visualization library from R to Python. <br> <br>
+I am rather new to the open-source world, but I have worked on enhanced distance calculations and implementations for *geopandas*. I have also translated a C4ADS visualization library from R to Python. <br> <br>
 ***Do you code on your own pet projects?***<br>
 Most of the coding I do outside of my job and school is coding for projects at the lab I work at. Frankly, I have been extremely busy the last two years so have had limited opportunity to work on coding projects outside of the ones I do for work, school, and research. <br> <br>
 ***Are you a Sage user, how long do you know Sage?*** <br>
 I am a Sage user, but I have not used it extensively. I used SageMath while taking my graduate Advanced Graph Algorithms and Optimization course in 2019. My work since then has moved away from graph theory, but I would be very excited to refresh that knowledge and explore the field a bit more. <br> <br>
 
-
 **Code Contribution:** <br>
-All changes in the Trac workflow done under gh-georgiachanning.
+All changes in the Trac workflow done under *gh-georgiachanning*.
 
 ## Project
 ### Proposal Title
@@ -88,6 +87,9 @@ I am not applying to any other GSoC Organizations.
 ### Citations
 H.N. Gabow, A Matroid Approach to Finding Edge Connectivity and Packing Arborescences, Journal of Computer and System Sciences, Volume 50, Issue 2, 1995, Pages 259-273, ISSN 0022-0000, [https://doi.org/10.1006/jcss.1995.1022](https://www.sciencedirect.com/science/article/pii/S0022000085710227). <br>
 Abstract: We present an algorithm that finds the edge connectivity λ of a graph having n vectices and m edges. The running time is O(λ m log(n2/m)) for directed graphs and slightly less for undirected graphs, O(m+λ2n log(n/λ)). This improves the previous best time bounds, O(min{mn, λ2n2}) for directed graphs and O(λn2) for undirected graphs. We present an algorithm that finds k edge-disjoint arborescences on a directed graph in time O((kn)2). This improves the previous best time bound, O(kmn + k3n2). Unlike previous work, our approach is based on two theorems of Edmonds that link these two problems and show how they can be solved.
+
+#### Notes
+A maintained and updated version of this proposal lives in [Github](https://github.com/georgiachanning/sagemath/edit/main/README.md).
 
 
 
