@@ -86,7 +86,7 @@ In the case of early finish, I will attempt to implement the method proposed in 
 I am not applying to any other GSoC Organizations.
 
 ### Citations
-H.N. Gabow, A Matroid Approach to Finding Edge Connectivity and Packing Arborescences, Journal of Computer and System Sciences, Volume 50, Issue 2, 1995, Pages 259-273, ISSN 0022-0000, [https://doi.org/10.1006/jcss.1995.1022](https://www.sciencedirect.com/science/article/pii/S0022000085710227).
+H.N. Gabow, A Matroid Approach to Finding Edge Connectivity and Packing Arborescences, Journal of Computer and System Sciences, Volume 50, Issue 2, 1995, Pages 259-273, ISSN 0022-0000, [https://doi.org/10.1006/jcss.1995.1022](https://www.sciencedirect.com/science/article/pii/S0022000085710227). <br>
 Abstract: We present an algorithm that finds the edge connectivity λ of a graph having n vectices and m edges. The running time is O(λ m log(n2/m)) for directed graphs and slightly less for undirected graphs, O(m+λ2n log(n/λ)). This improves the previous best time bounds, O(min{mn, λ2n2}) for directed graphs and O(λn2) for undirected graphs. We present an algorithm that finds k edge-disjoint arborescences on a directed graph in time O((kn)2). This improves the previous best time bound, O(kmn + k3n2). Unlike previous work, our approach is based on two theorems of Edmonds that link these two problems and show how they can be solved.
 
 
