@@ -57,7 +57,7 @@ The current method used for finding edge disjoint spanning trees in directed gra
 
 #### Community Bonding (May 20-June 12)
 
-During the community bonding period, I will study the SageMath code base, particularly the graph module, and review the SageMath developer guidelines. To better understand and interact with the SageMath core development team, I will actively monitor and participate in the sage-devel and sage-coding-theory groups, though sage-coding-theory seems to be largely inactive. Additionally, I will communicate with my mentor to schedule frequent, recurring, and mutually convenient meetings throughout the summer. If there is a large time difference between my mentors and myself, I will adjust my schedule to ensure that our workdays overlap for at least a portion of each day. 
+During the community bonding period, I will study the SageMath code base, particularly the graph module, and review the SageMath developer guidelines. To better understand and interact with the SageMath core development team, I will actively monitor and participate in the sage-devel and sage-gsoc groups. Additionally, I will communicate with my mentor to schedule frequent, recurring, and mutually convenient meetings throughout the summer. If there is a large time difference between my mentors and myself, I will adjust my schedule to ensure that our workdays overlap for at least a portion of each day. 
 
 #### Phase 1: Literature Review and Preliminary Implementation (June 12-July 25)
 ##### Week 1-2: In-Depth Review
@@ -65,11 +65,11 @@ These weeks will focus on deeply understanding the problem and possibel solution
 ##### Weeks 2-5: Coding
 In these weeks, I will implement the multiple subsections of the algorithm proposed in *A Matroid Approach to Finding Edge Connectivity and Packing Arborescences* that do not yet exist as a part of SageMath (as far as I can tell). In particular, I will implement the matroid intersection algorithm and the round robin algorithm.  
 ##### Week 6: Initial Code Review and Testing
-In Week 6, I will meet with my mentor to discuss the first implementation of this algorithm. We will identify testing needs as well as targets for efficiency improvements. This may include traslating Python code into C for faster runtimes.
+In Week 6, I will meet with my mentor to discuss the first implementation of this algorithm. We will identify testing needs as well as targets for efficiency improvements. 
 #### Phase 2: Efficiency Improvements and Testing (July 25-September 4)
-##### Weeks 7-9: C Optimization
-These weeks may focus on translating a Python-implementation of the algorithm described in *A Matroid Approach to Finding Edge Connectivity and Packing Arborescences* into C. 
-#### Weeks 9-11:
+##### Weeks 7-9: Docstrings and Tests
+These weeks will focus on writing docstrings and tests for all the code written in the previous six weeks. Focus will be on testing edge cases and writing preliminary documentation. Issues identified through testing will be addressed.
+#### Weeks 9-11: Incremental Optimizations
 These weeks will likely focus on small optimizations in the algorithm in order to make it more efficient. Possible optimizations will only be clear after the first implementation when an efficiency analysis can be run on that code.
 #### Phase 3: Final Code, Documentation, and Mentor Review Submissions (September 5-September 12)
 ##### Week 12-13: Wrap-Up
