@@ -91,7 +91,7 @@ Anand Bhalgat, Ramesh Hariharan, Telikepalli Kavitha, and Debmalya Panigrahi. 20
 H.N. Gabow, A Matroid Approach to Finding Edge Connectivity and Packing Arborescences, Journal of Computer and System Sciences, Volume 50, Issue 2, 1995, Pages 259-273, ISSN 0022-0000, [https://doi.org/10.1006/jcss.1995.1022](https://www.sciencedirect.com/science/article/pii/S0022000085710227). 
 
 #### Notes
-A maintained and updated version of this proposal lives in [Github](https://github.com/georgiachanning/sagemath/edit/main/README.md).
+A maintained and updated version of this proposal lives in [Github](https://github.com/georgiachanning/sagemath/blob/main/README.md).
 
 
 
