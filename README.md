@@ -12,7 +12,7 @@ SageMath <br>
 
 *University Name*: University of Tennessee, Knoxville <br>
 *Research Interests*: foundations of computer science, graph algorithms, bayesian optimization <br>
-*Degree*: BSc 2022 -> PhD in ACO (to be completed circa 2027) <br>
+*Degree*: BSc 2022 <br>
 
 ## Background
 
